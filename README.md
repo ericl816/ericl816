@@ -1,5 +1,5 @@
 ### Hi there 👋, thanks for visiting!
-- 🤝 My name is **Eric** and I am a sophomore/junior studying Computer Science at the University of Waterloo.
+- 🤝 My name is **Eric** and I am a junior studying Computer Science at the University of Waterloo.
 - ✨ I’m interested in Distributed Systems, Big Data, Full-Stack, Business/Finance, Big-Tech, and Start-Ups
 - 💻 I'm looking for 2022 internships. If you are hiring, feel free to reach out!
 
